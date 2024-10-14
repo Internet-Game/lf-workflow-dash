@@ -5,6 +5,10 @@ repos:
     owner: Internet-Game
     smoke-test: release.yml
 
+  - repo: ig-fn-sumosmash
+    owner: Internet-Game
+    smoke-test: release.yml
+
   # - repo: asv-formatter
   #   owner: lincc-frameworks
   #   smoke-test: smoke-test.yml
