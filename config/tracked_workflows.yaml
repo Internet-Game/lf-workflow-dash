@@ -9,6 +9,62 @@ repos:
     owner: Internet-Game
     smoke-test: release.yml
 
+  - repo: ig-omega-pinch
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-wordfind
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-team-word-race
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-bubblepopper
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-simple-speak
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-karts
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-scribble
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-eggball
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-higher-or-lower
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-obstacle-course
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-wave-survival
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-block-battle
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-codenames
+    owner: Internet-Game
+    smoke-test: release.yml
+
+  - repo: ig-game-who-said-what
+    owner: Internet-Game
+    smoke-test: release.yml                           
+
   # - repo: asv-formatter
   #   owner: lincc-frameworks
   #   smoke-test: smoke-test.yml
